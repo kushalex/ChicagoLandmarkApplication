@@ -1,6 +1,10 @@
-# ChicagoLandmarkApplication
+# Chicago Landmark Application
 An application created in Android Studio using Java that displays Chicago landmarks.
+Gained experience with fragments, permissions, intent-filters, views, backstack.
 
-## DEMO
-![](https://github.com/kushalex/ChicagoLandmarkApplication/blob/main/7e0515f1932b2a90398f9886728230a2-ezgif.com-video-to-gif-converter.gif)
+## Fragment Demo
+![](https://github.com/kushalex/ChicagoLandmarkApplication/blob/main/Demo1)
+
+## Launching Application 2 from Application 1 Demo
+![](https://github.com/kushalex/ChicagoLandmarkApplication/blob/main/Demo2)
 
