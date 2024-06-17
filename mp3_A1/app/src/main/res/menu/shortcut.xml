@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/shortcut_launch_A2"
+        android:title="Launch A2"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_exit_A1"
+        android:title="Exit A1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_launch_A2"
+        android:title="Launch A2"
+        app:showAsAction="never" />
+
+</menu>

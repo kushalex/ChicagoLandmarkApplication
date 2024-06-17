@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">mp3_A1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="landmark1_title">Museum of Science and Industry</string>
+    <string name="landmark2_title">Wrigley Field</string>
+    <string name="landmark3_title">Lincoln Park Zoo</string>
+    <string name="landmark4_title">Cloud Gate</string>
+    <string name="landmark5_title">Navy Pier</string>
+    <string name="landmark6_title">Buckingham Fountain</string>
+
+    <string-array name="landmark_webpage">
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.mlb.com/cubs/ballpark</item>
+        <item>https://www.lpzoo.org/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/clarence-f-buckingham-memorial-fountain</item>
+    </string-array>
+
+</resources>
