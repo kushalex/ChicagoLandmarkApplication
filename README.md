@@ -2,6 +2,5 @@
 An application created in Android Studio using Java that displays Chicago landmarks.
 
 ## DEMO
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XXTSfmDN_5s/0.jpg)](https://www.youtube.com/watch?v=XXTSfmDN_5s)
-https://youtu.be/XXTSfmDN_5s
+![](https://github.com/kushalex/ChicagoLandmarkApplication/blob/main/7e0515f1932b2a90398f9886728230a2-ezgif.com-video-to-gif-converter.gif)
 
